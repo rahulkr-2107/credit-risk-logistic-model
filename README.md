@@ -32,7 +32,7 @@ The dataset was sourced from an open Kaggle loan dataset. It includes the follow
 
 ---
 
-## Sample Results
+## Results
 
 - **ROC-AUC Score**: ~0.72 (may vary by dataset split)
 - **Plot**: ROC Curve stored as `roc_curve.png`
