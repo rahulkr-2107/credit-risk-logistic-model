@@ -43,22 +43,19 @@ The dataset was sourced from an open Kaggle loan dataset. It includes the follow
 
 ## How to Run This Project
 
-### Step 1: Clone this repo
-```
- git clone https://github.com/rahulkr-2107/credit-risk-logistic-model.git
-  cd credit-risk-logistic-model
-  
-### Step 2: Install required packages
-
-pip install -r requirements.txt
-
-### Step 3: Launch the Jupyter Notebook
-jupyter notebook
-
-Then open:
-notebooks/01_credit_risk_model.ipynb
-
-###Step 4: Run each cell step-by-step
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/rahulkr-2107/credit-risk-logistic-model.git
+   cd credit-risk-logistic-model
+2. Install required packages:
+   ```bash
+   pip install -r requirements.txt
+3. Launch the Jupyter Notebook
+   ```bash
+   jupyter notebook
+  Then Open:
+   notebooks/01_credit_risk_model.ipynb
+4. Run each cell step-by-step
 Make sure data/loan_data.csv is present.
 
 ## Technologies Used
@@ -67,28 +64,20 @@ Make sure data/loan_data.csv is present.
    NumPy
    scikit-learn (modeling)
    Matplotlib, Seaborn (visualization)
+   Jupyter Notebook
+   Git & GitHub
 
-Jupyter Notebook
+## Learning Outcomes
+- Understanding of binary classification using logistic regression
+- Model evaluation techniques like ROC-AUC
+- Real-world credit risk scoring logic
+- End-to-end project pipeline from data → model → evaluation → deployment
 
-Git & GitHub
-
-📚 Learning Outcomes
-Understanding of binary classification using logistic regression
-
-Model evaluation techniques like ROC-AUC
-
-Real-world credit risk scoring logic
-
-End-to-end project pipeline from data → model → evaluation → deployment
-
-👨‍💻 Author
+## Author
 Rahul Kumar
-
 CFA Level 2 Candidate
-
 Python + Finance Enthusiast
+[GitHub](https://github.com/rahulkr-2107) Profile
 
-GitHub Profile
-License
+## License
 This project is open-source and free to use for learning purposes.
-
