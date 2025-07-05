@@ -53,19 +53,22 @@ The dataset was sourced from an open Kaggle loan dataset. It includes the follow
 3. Launch the Jupyter Notebook
    ```bash
    jupyter notebook
-  Then Open:
+4. Then Open:
+   ```bash
    notebooks/01_credit_risk_model.ipynb
-4. Run each cell step-by-step
+
+5. Run each cell step-by-step:
 Make sure data/loan_data.csv is present.
 
 ## Technologies Used
-   Python
-   pandas
-   NumPy
-   scikit-learn (modeling)
-   Matplotlib, Seaborn (visualization)
-   Jupyter Notebook
-   Git & GitHub
+   - Python
+   - pandas
+   - NumPy
+   - scikit-learn (modeling)
+   - Matplotlib
+   - Seaborn (visualization)
+   - Jupyter Notebook
+   - Git & GitHub
 
 ## Learning Outcomes
 - Understanding of binary classification using logistic regression
